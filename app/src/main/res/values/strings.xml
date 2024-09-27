@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FetchRewardsOA</string>
+    <string name="grouped_items_list_title">"Grouped items"</string>
+    <string name="list_id_header">List ID %1$s</string>
+    <string name="error_loading_text">Oops! Unable to fetch list…</string>
+    <string name="error_retry_button_text">Retry</string>
 </resources>
