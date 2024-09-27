@@ -2,12 +2,6 @@
 
 Kotlin-base Android app that retrieves and displays a grouped list of hiring items (sorted) from a remote source.
 
-## Dependencies
-- Koin (DI)
-- Jetpack Compose (UI)
-- Retrofit
-- MockK (Unit testing)
-
 ## Features
 - Fetches hiring items from a remote API
 - Displays items grouped by `listId`
